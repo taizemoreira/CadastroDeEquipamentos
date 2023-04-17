@@ -6,7 +6,8 @@ Software para automatizar o seu serviço.
 
 ## 1. Controle de Equipamentos  
 Requisito 1.1: Como funcionário, Junior quer ter a possibilidade
-de registrar equipamentos  
+de registrar equipamentos
+
          •   Deve ter um nome com no mínimo 6 caracteres;
          
          •   Deve ter um preço de aquisição;  
@@ -20,6 +21,7 @@ de registrar equipamentos  
 Requisito 1.2: Como funcionário, Junior quer ter a possibilidade
 de visualizar todos os equipamentos registrados em seu
 inventário.  
+
          •  Deve mostrar o número;  
          
          •  Deve mostrar o nome;  
@@ -33,6 +35,7 @@ inventário.  
 Requisito 1.3:  Como funcionário, Junior quer ter a possibilidade
 de editar um equipamento, sendo que ele possa
 editar todos os campos.   
+
          •  Deve ter os mesmos critérios que o Requisito 1.
  
  Requisito 1.4: Como funcionário, Junior quer ter a possibilidade
@@ -44,6 +47,7 @@ de excluir um equipamento que esteja registrado. 
 Requisito 2.1:  Como funcionário Junior quer ter a possibilidade
 de registrar os chamados de manutenções que são
 efetuadas nos equipamentos registrados  
+
          •  Deve ter a título do chamado;  
          
          •  Deve ter a descrição do chamado;  
@@ -53,17 +57,20 @@ efetuadas nos equipamentos registrados  
          •  Deve ter uma data de abertura;
          
 Requisito 2.2: Como funcionário Junior quer ter a possibilidade
-de visualizar todos os chamados registrados para controle.   
+de visualizar todos os chamados registrados para controle. 
+
          •  Deve mostrar o título do chamado;  
          
          •  Deve mostrar o equipamento;  
          
          •  Deve mostrar a data de abertura;  
          
-         •  Número de dias que o chamado está aberto  
+         •  Número de dias que o chamado está aberto 
+         
 Requisito 2.3: Como funcionário Junior quer ter a possibilidade
 de editar um chamado que esteja registrado, sendo que ele
 possa editar todos os campos.   
+
          •  Deve ter os mesmos critérios que o Requisito 5. 
  
 Requisito 2.4: Como funcionário Junior quer ter a possibilidade
