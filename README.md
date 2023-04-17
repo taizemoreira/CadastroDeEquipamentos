@@ -7,7 +7,7 @@ Desta forma, ele resolveu pedir ajuda do pessoal da Academia do Programador no d
 Software para automatizar o seu serviço.
 
 ## 1. Controle de Equipamentos  
-> Requisito 1.1: Como funcionário, Junior quer ter a possibilidade de registrar equipamentos
+>Requisito 1.1: Como funcionário, Junior quer ter a possibilidade de registrar equipamentos
 - [ ] Deve ter um nome com no mínimo 6 caracteres;
 - [ ] Deve ter um preço de aquisição;  
 - [ ] Deve ter um número de série;  
